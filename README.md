@@ -212,6 +212,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [NotebookLM](https://notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 - [Mathos AI](https://www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
 
+### Astrology
+- [CystalBallGPT](https://crystalballgpt.com/) - AI-powered astrology platform for personal, business, investment, and health insights with timing, affliction and alignment analysis; supports natal, mundane (cities/countries/entities), electional (auspicious timing), and prashna astrology (not requiring birth details).
+
 ### Customer Support
 - [SiteGPT](https://sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
 - [GPTHelp.ai](https://gpthelp.ai/?ref=mahseema-awesome-ai-tools) - ChatGPT for your website / AI customer support chatbot.
@@ -220,7 +223,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
 - [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
-
 
 ### Other text generators
 
